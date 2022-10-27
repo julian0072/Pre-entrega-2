@@ -1,0 +1,108 @@
+/*Generales*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
+
+/*Home*/
+.imagenPrincipal {
+  width: 95%;
+  height: 90%;
+}
+
+.parrafoHome {
+  font-size: 25px;
+}
+
+.mainImage {
+  width: 300px;
+  height: 300px;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.chooseUs {
+  background-color: rgb(155, 145, 134);
+}
+
+.imgChooseUs {
+  width: 250px;
+  height: 200px;
+}
+
+.joinUs {
+  width: 200px;
+  height: 200px;
+}
+
+/*Join Us on IG*/
+.joinUs:hover {
+  transform: scale(1.2);
+}
+
+/*Footer*/
+footer {
+  background-color: black;
+  height: 300px;
+}
+
+.tituloFooterPrincipal {
+  font-size: 45px;
+}
+
+.footerLogo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50px;
+}
+
+.footerLogo:hover {
+  transform: scale(1.2);
+}
+
+/*Gallery*/
+
+.titleGallery {
+  font-size: 75px;
+}
+
+.textGallery {
+  font-size: 30px;
+}
+
+.imgGalleryTop {
+  width: 500px;
+  height: 700px;
+}
+.imgGallery {
+  width: 300px;
+  height: 300px;
+}
+
+.imageGallery {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin-left: 200px;
+}
+
+.card-img-top {
+  width: 300px;
+  height: 300px;
+}
+
+/*How it Works*/
+.howItWorks {
+  background-color: rgb(182, 194, 190);
+}
+
+/*Shipping*/
