@@ -52,7 +52,7 @@ li {
 /*Footer*/
 footer {
   background-color: black;
-  height: 300px;
+  height: auto;
 }
 
 .tituloFooterPrincipal {
