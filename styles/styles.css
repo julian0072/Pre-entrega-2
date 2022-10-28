@@ -13,6 +13,13 @@ li {
   justify-content: center;
 }
 
+.buttonFollow{
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  
+}
+
 /*Home*/
 .imagenPrincipal {
   width: 95%;
